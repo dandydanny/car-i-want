@@ -11,7 +11,7 @@ This is a list of parameters and specifications for a great automobile: a tool t
 ### Safety
 Help user avoid dangerous situations:
 * ADAS
-* Forward collision warning
+* Forward collision warning - multi-modal using mm wave radar, lidar, and stereo imaging + object recognition
 * Auto-braking
 * Sense and gauge user involvement capacity and determine if breaks are needed
 * Automation
